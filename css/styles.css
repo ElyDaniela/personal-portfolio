@@ -1,0 +1,9 @@
+#contentBannerHome{
+    color:white; 
+    position: absolute; 
+    margin-top: 200px;
+}
+
+#contentBannerHome h1{
+    color: aqua;
+}
