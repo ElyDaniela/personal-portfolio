@@ -1,9 +1,25 @@
 #contentBannerHome{
     color:white; 
     position: absolute; 
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 #contentBannerHome h1{
-    color: aqua;
+    font-size: 50px;
+}
+
+#contentBannerHome p{
+    font-size: 20px;
+}
+
+#aboutMeRow{
+    margin-top: 100px;
+}
+
+#skillsRow{
+    margin-top: 100px;
+}
+
+#servicesRow{
+    margin-top: 100px;
 }
